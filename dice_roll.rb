@@ -4,7 +4,7 @@
 
 def roll
   # code goes here
-  return 
+  return random.rand()
   
   
 end
